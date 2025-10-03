@@ -8,7 +8,8 @@ This assignment demonstrates MongoDB fundamentals including CRUD operations, adv
 
 - `insert_books.js`: Script to populate MongoDB with 12 sample books
 - `queries.js`: Complete MongoDB queries for all assignment tasks
-- `Week1-Assignment.md`: Detailed assignment instructions
+- `data.png`: Screenshot of MongoDB Compass showing the populated books collection
+- `README.md`: Instructions on how to run the scripts
 
 ## Prerequisites
 
@@ -80,6 +81,8 @@ Edit `queries.js` and uncomment specific task functions at the bottom:
 2. Connect to `mongodb://localhost:27017`
 3. Navigate to `plp_bookstore` → `books` collection
 4. View inserted documents and indexes
+
+**Screenshot:** See `data.png` for a visual demonstration of the MongoDB Compass interface showing the populated books collection.
 
 ## Assignment Tasks Completed
 
